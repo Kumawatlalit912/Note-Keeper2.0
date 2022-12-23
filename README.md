@@ -1,7 +1,7 @@
 # Note-Keeper2.0
-Updated Note keeper previous version
+##Updated Note keeper previous version
 
-#As heroku is paid now so we can use following things for our app deployment
+###`As heroku is paid now so we can use following things for our app deployment`
 
 <h2 style="color:red">firebase</h2>
 <h2>render</h2>
